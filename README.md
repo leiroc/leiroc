@@ -6,7 +6,7 @@
 
 - 狙击单词（微信小程序）：
 
-![](https://static.animpen.com/u/3/sniper2.jpg) 
+![](https://static.animpen.com/u/3/sniper2.jpg?_=2345678) 
 
 英语单词学习小工具：加强肌肉记忆单词、发音、翻译。狙击单词，让学习单词变得更加轻松愉快。
 - 智能图片编辑（微信小程序）：
